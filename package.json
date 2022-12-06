@@ -22,7 +22,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "node-sass": "^4.13.1",
-    "qs": "^6.9.1"
+    "qs": "^6.9.7"
   },
   "scripts": {
     "build": "rimraf lib && npm run build-style && npm run build-js",
